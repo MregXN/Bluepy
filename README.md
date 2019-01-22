@@ -26,4 +26,6 @@ set up bluetooth authority
 $ sudo setcap 'cap_net_raw,cap_net_admin+eip' PATH/TO/BLUEPY/venv/lib/python3.7/site-packages/bluepy/bluepy-helper
 ```
 run the code
+```
 python __init__.py
+```
