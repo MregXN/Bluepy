@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Thunderboard with Bluepy
 This is a python framework for reading thunderboards\` sensors date by bluepy
 
@@ -96,6 +95,3 @@ $ docker run -d --name=h-thunderboard -v /var/vertex/appdata/h-thunderboard:/cod
 
 
 sudo setcap 'cap_net_raw,cap_net_admin+eip' PATH/TO/BLUEPY/venv/lib/python3.7/site-packages/bluepy/bluepy-helper
-=======
-# bluepy
->>>>>>> 582a8f73db4f377826b7c2638d9c51c09c5c71fa
