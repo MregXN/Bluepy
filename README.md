@@ -1,6 +1,6 @@
 # Thunderboard with Bluepy
-This is a python framework for reading thunderboards\` sensors date by bluepy
-in init.py is a minimum code for reading single thunderboard date
+This is a python framework for reading thunderboards\` sensors date by bluepy.
+In init.py is a minimum code for reading single thunderboard date
 
 ## How to run it?
 
@@ -27,5 +27,5 @@ $ sudo setcap 'cap_net_raw,cap_net_admin+eip' PATH/TO/BLUEPY/venv/lib/python3.7/
 ```
 run the code
 ```
-python __init__.py
+$ python __init__.py
 ```
